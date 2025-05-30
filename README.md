@@ -9,9 +9,8 @@ This Python-based script is designed for offensive auditing of PKCS#11-compatibl
 
 - Brute-force testing for weak/common PINs
 - Object enumeration (certificates, keys, etc.)
-- RSA keypair generation attempts
-- Certificate extraction from token
-- System-wide scan for `teec.log` files
+- Access Flag Enumeration & extraction from Token
+- System-wide scan for sensitive optee files
 - Detailed logging for all actions
 
 ---
