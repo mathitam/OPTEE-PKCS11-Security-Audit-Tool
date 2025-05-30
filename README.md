@@ -1,7 +1,5 @@
-# OPTEE-PKCS11-Security-Audit-Tool
-A lightweight Python script to automate the security auditing of PKCS#11-compatible tokens and HSMs. This tool performs weak PIN brute-forcing, object enumeration, key generation attempts, and certificate extraction
 
-# 🔐 PKCS#11 Security Audit Tool
+# 🔐 PKCS#11 (in OPTEE) Security Audit Tool
 
 This Python-based script is designed for offensive auditing of PKCS#11-compatible cryptographic tokens or HSMs. It automates key security checks like weak PIN brute-force attempts, object enumeration, certificate extraction, and checks for sensitive file artifacts like `teec.log`.
 
